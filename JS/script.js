@@ -10,10 +10,12 @@ window.addEventListener("scroll", () => {
 
     Agua1.style.left = value * 1.8 + "px";
     Agua2.style.left = value * 5 + "px";
-    Agua2.style.top  = value * -0.2 + 120 + "px";
+    Agua2.style.top  = value * -0.2  + "px";
     Agua3.style.left = value * 4 + "px";
     Agua4.style.left = value * -2 + "px";
-    Agua5.style.top  = value * -0.1 + 120 + "px";
+    Agua5.style.top  = value * -0.1  + "px";
     Agua5.style.left = value * -0.3 + "px";
 
 });
+
+
